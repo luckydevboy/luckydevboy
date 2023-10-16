@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js, Express & MongoDB.
 - 📫 How to reach me: [Telegram](https://t.me/luckydevboy)
 - 📎️ You can check my articles through [here](https://dev.to/luckydevboy)
+- 📜️ [Click here](./assets/Mohammad%20Reza's%20Resume.pdf) to check my resume
