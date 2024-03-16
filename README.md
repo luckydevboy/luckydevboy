@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [IFeedly](https://github.com/luckydevboy/ifeedly), [IFeedly Backend](https://github.com/luckydevboy/ifeedly-backend) & [Photosnap](https://github.com/luckydevboy/photosnap) projects.
+- 🔭 I’m currently working on [Tasq](https://github.com/luckydevboy/tasq) & [Tasq Backend](https://github.com/luckydevboy/tasq-backend) projects.
 - 📫 How to reach me: [Telegram](https://t.me/luckydevboy)
 - 📎️ You can check my articles through [here](https://dev.to/luckydevboy)
 - 📜️ [Click here](./assets/Mohammad%20Reza's%20Resume.pdf) to check my resume
